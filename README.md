@@ -6,43 +6,42 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: innovates
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: sijo - ace college 
+- Member 2: AhammedYaseen - ace College
 
 ### Project Description
-[2-3 lines about what your project does]
+robot that draw lines based on command 
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+the problem of line drawing
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+make a robot that draw lines
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- c++
+- 
+- Aurdino 
+- 
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Aurdino,esp32, servo motor, geared motor 
+- 
+- Aurdino ide
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+Aurdino ide
 
 # Run
-[commands]
+run
 
 ### Project Documentation
 For Software:
